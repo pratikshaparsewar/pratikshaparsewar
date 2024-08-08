@@ -1,3 +1,6 @@
+![Cover Image](https://github.com/pratikshaparsewar/pratikshaparsewar/blob/main/pratiksha-parsewar.jpeg)
+
+
 ## Hi there 👋
 
 <!--
