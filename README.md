@@ -21,6 +21,8 @@ A senior frontend developer with a proven track record in fintech innovation.
 <a href="" target="_blank" title="MongoDB" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongo" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="Git" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="GitHub" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" target="_blank" title="JQuery" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="30" height="30"/></a>&nbsp;&nbsp;
+
 
 <!--
 **pratikshaparsewar/pratikshaparsewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
