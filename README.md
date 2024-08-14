@@ -3,13 +3,6 @@
 
  ## Hi, I'm Pratiksha Parsewar 👋 
 
-A senior frontend developer with a proven track record in fintech innovation.
-
-Hi there, my name is Pratiksha, an experienced software developer with a strong foundation in Computer Science & Engineering and over 6 years of expertise in front-end development. During my time as a Software Development Engineer II at Mobikwik, I played a key role in developing and enhancing several critical fintech products, including Mobikwik Money, Mobikwik Lending, ZIP - BNPL, and various merchant payment solutions.
-
-I specialized in building and optimizing interactive UI components using Vue.js, which significantly improved user engagement and the overall performance of Mobikwik’s wealth management and payment platforms. My experience at Mobikwik has honed my skills in responsive design, API integrations, and delivering scalable, user-focused solutions.
-
-Currently, I am working as a Senior Software Engineer at Appsonnet, where I lead the development of secure, high-performance IT services. My expertise spans across Vue.js, React, TypeScript, CSS, and much more.
 
 ### Currently I am working with ...
 
