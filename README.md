@@ -1,7 +1,7 @@
 ![Cover Image](https://github.com/pratikshaparsewar/pratikshaparsewar/blob/main/pratiksha-parsewar.jpeg)
 
 
- ## Hi, I'm Pratiksha Parsewar 👋 a Frontend developer dedicated to crafting engaging and interactive digital experiences with the latest technology. I have a deep passion for automation, design, and leveraging code to tackle complex challenges. As a strong advocate for clean, maintainable code, I prioritize clarity and testability in every project I undertake.
+  Hi, I'm Pratiksha Parsewar 👋 a Frontend developer dedicated to crafting engaging and interactive digital experiences with the latest technology. I have a deep passion for automation, design, and leveraging code to tackle complex challenges. As a strong advocate for clean, maintainable code, I prioritize clarity and testability in every project I undertake.
 
 
 ### Currently I am working with ...
